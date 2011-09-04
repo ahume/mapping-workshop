@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	#map { height: 300px; width: 300px; }
+</style>
+<script src="http://cdn.simplegeo.com/js/1.3/simplegeo.storage.min.js"></script>
+<script type="text/javascript">
+(function() {
+	
+	function init() {
+		
+		var client = new simplegeo.StorageClient('dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc');
+		
+		//client.getNearby("libya", 32.895, 13.280, 
+		//	{ "radius": 100 },
+		//	displayData
+		//);
+	}
+	
+	function displayData(err, data) {
+
+	    if (err) { 
+	        console.error(err);
+	    } else {
+	        console.log(JSON.stringify(data));
+	    }
+
+	}
+	
+	window.onload = init;
+	
+})();
+</script>
+</head>
+<body>
+	<h1>Libya Attacks API</h1>
+	<p>The Libya attacks data is available on SimpleGeo&rsquo;s storage API.</p>
+	<p>SimpleGeo provide a few <a href="https://simplegeo.com/docs/clients-code-libraries">client libraries</a> including a <a href="https://simplegeo.com/docs/clients-code-libraries/javascript-sdk">JavaScript library</a>.</p>
+	<p>Alternatively you can hack around with the REST API itself by appending <code>token=dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc</code> to any of <a href="https://simplegeo.com/docs/api-endpoints">these endpoints</a>. For example:</p>
+	<p><a href="http://api.simplegeo.com/0.1/records/libya/nearby/32.895,13.28.json?token=dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc&amp;radius=100&amp;limit=100">https://api.simplegeo.com/0.1/records/libya/nearby/32.895,13.28.json?token=dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc&radius=100&limit=100</a></p>
+	<div id="map"></div>
+</body>
+</html>
