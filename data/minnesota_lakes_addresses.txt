@@ -1,0 +1,1153 @@
+name,place,county,state,country
+Lake Aaron, Douglas, Millerville, Minnesota, US
+Lake Abbey, Becker, Detroit Lakes, Minnesota, US
+Lake Acorn, Becker, Frazee, Minnesota, US
+Lake Ada, Cass, BackUS Minnesota, US
+Lake Adley, Otter Tail, Parkers Prairie, Minnesota, US
+Lake Aitkin, Aitkin, Libby, Minnesota, US
+Lake Albert Lea, Freeborn, Albert Lea, Minnesota, US
+Lake Alice, Hubbard, Lake George, Minnesota, US
+Lake Allie, Renville, Buffalo Lake, Minnesota, US
+Lake Amelia, Pope, Villard, Minnesota, US
+Lake Amen, Itasca, Deer River, Minnesota, 	US
+Lake Anderson, Itasca, Bigfork, Minnesota, US
+Lake Andrew, Douglas, Alexandria, Minnesota, US
+Lake Andrew, Kandiyohi, New London, Minnesota, US
+Lake Andrusia, Beltrami, Cass Lake, Minnesota, US
+Lake Ann, Kanabec, Ogilve, Minnesota, US
+Lake Ann, Pope, Glenwood, Minnesota, US
+Lake Ann, Sherburne, Zimmerman, Minnesota, US
+Lake Anna, Crow Wing, Emily, Minnesota, US
+Lake Anna, Otter Tail, Underwood, Minnesota, US
+Lake Annie Battle, Otter Tail, Battle Lake, Minnesota, US
+Lake Antler, Itasca, Bigfork, Minnesota, US
+Lake Armstrong, St. Louis, Ely, Minnesota, US
+Lake Artichoke, Big Stone, Correll, Minnesota, US
+Lake Ash, St. Louis, Orr, Minnesota, US
+Lake Auburn, Carver, Victoria, Minnesota, US
+Lake Augusta, Cottonwood, Storden, Minnesota, US
+Lake Baby, Cass, Hackensack, Minnesota, US
+Lake Bad Axe, Hubbard, Emmaville, Minnesota, US
+Lake Bad Medicine, Becker, Ponsford, Minnesota, US
+Lake Badger, Polk, Erskine, Minnesota, US
+Lake Bagley, Clearwater, Leonard, Minnesota, US
+Lake Bald Eagle, Ramsey, White Bear Lake, Minnesota, US
+Lake Ball Club, Cook, Grand Marais, Minnesota, US
+Lake Ball Club, Itasca, Ball Club (Unincorporated Village), Minnesota, US
+Lake Ballantyne, Blue Earth, Madison Lake, Minnesota, US
+Lake Balm, Beltrami, Solway, Minnesota, US
+Lake Balsam, Itasca, Taconite, Minnesota, US
+Lake Ban, St. Louis, Orr, Minnesota, US
+Lake Barrett, Grant, Barrett, Minnesota, US
+Lake Bartlett, Koochiching, Northome, Minnesota, US
+Lake Bass (Big), Beltrami, Bemidji, Minnesota, US
+Lake Bass (Little), Beltrami, Bemidji, Minnesota, US
+Lake Bass, Crow Wing, Merrifield, Minnesota, US
+Lake Bass, Faribault, Delavan, Minnesota, US
+Lake Bass, Itasca, Cohasset, Minnesota, US
+Lake Bass, Mahnomen, Waubun, Minnesota, US
+Lake Bass, Otter Tail, Underwood, Minnesota, US
+Lake Bass, Pine, Finlayson, Minnesota, US
+Lake Bass, St. Louis, Soudan (unincorporated town), Minnesota, US
+Lake Bassett, St. Louis, Fairbanks, Minnesota, US
+Lake Battle, Otter Tail, Effie, Minnesota, US
+Lake Bavaria, Carver, Victoria, Minnesota, US
+Lake Bay, Crow Wing, Deerwood, Minnesota, US
+Lake Bear, Carlton, Barn Lake Area, Minnesota, US
+Lake Bear, Freeborn, Twin Lakes, Minnesota, US
+Lake Bear, Itasca, Nashwauk, Minnesota, US
+Lake Bear, Otter Tail, Perham, Minnesota, US
+Lake Bear Island, St. Louis, Babbit, Minnesota, US
+Lake Bearhead, St. Louis, Tower, Minnesota, US
+Lake Beauty, Itasca, Goodland, Minnesota, US
+Lake Beauty, Todd, Long Prairie, Minnesota, US
+Lake Beers, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Belle, Meeker, Hutchinson, Minnesota, US
+Lake Belle Taine, Hubbard, Nevis, Minnesota, US
+Lake Bello, Itasca, Marcell, Minnesota, US
+Lake Belmont, Otter Tail, Clitherall, Minnesota, US
+Lake Beltrami, Beltrami, Bemidji, Minnesota, US
+Lake Bemidji, Beltrami, Bemidji, Minnesota, US
+Lake Benedict, Hubbard, Benedict, Minnesota, US
+Lake Benton, Lincoln, Lake Benton, Minnesota, US
+Lake Berg, St. Louis, Melrude, Minnesota, US
+Lake Bertha, Crow Wing, Jenkins, Minnesota, US
+Lake Beseau, Becker, Lake Park, Minnesota, US
+Lake Big, Beltrami, Bemidji, Minnesota, US
+Lake Big, Carlton, Sawyer, Minnesota, US
+Lake Big, St. Louis, Ely, Minnesota, US
+Lake Big, St. Louis, Hoyt Lakes, Minnesota, US
+Lake Big, Sherburne, Big Lake, Minnesota, US
+Lake Big, Stearns, Richmond, Minnesota, US
+Lake Big, Todd, Cushing, Minnesota, US
+Lake Big Carnelian, Washington, Stillwater, Minnesota, US
+Lake Big Diamond, Itasca, Marble, Minnesota, US
+Lake Big Dick, Itasca, Marcell, Minnesota, US
+Lake Big Fish, Stearns, Cold Spring, Minnesota, US
+Lake Big Island, Itasca, Marcell, Minnesota, US
+Lake Big Kandiyohi, Kandiyohi, Lake Lillian, Minnesota, US
+Lake Big Marine, Washington, Forest Lake, Minnesota, US
+Lake Big McDonald 2, Otter Tail, Dent, Minnesota, US
+Lake Big Moose, Beltrami, Pennington, Minnesota, US
+Lake Big Moose, St. Louis, Ely, Minnesota, US
+Lake Big Ole, Itasca, Marcell, Minnesota, US
+Lake Big Pine, Pine, Finlayson, Minnesota, US
+Lake Big Portage, Cass, BackUS Minnesota, US
+Lake Big Rabbit (East), Crow Wing, Cuyuna, Minnesota, US
+Lake Big Rabbit (West), Crow Wing, Cuyuna, Minnesota, US
+Lake Big Rice, Cass, Remer, Minnesota, US
+Lake Big Rice, St. Louis, Ely, Minnesota, US
+Lake Big Rush, Becker, Ponsford, Minnesota, US
+Lake Big Sand, Hubbard, Park Rapids, Minnesota, US
+Lake Big Sandy, Aitkin, McGregor, Minnesota, US
+Lake Big Spunk, Stearns, Avon, Minnesota, US
+Lake Big Stone, Big Stone, Ortonville, Minnesota, US
+Lake Big Stoney, Hubbard, Park Rapids, Minnesota, US
+Lake Big Sucker, Itasca, Nashwauk, Minnesota, US
+Lake Big Swan, Meeker, Kingston, Minnesota, US
+Lake Big Swan, Todd, Burtrum, Minnesota, US
+Lake Big Too Much, Itasca, Talmoon, Minnesota, US
+Lake Big Trout, Crow Wing, Cross Lake, Minnesota, US
+Lake Big Watab, Stearns, Avon, Minnesota, US
+Lake Big Wolf, Beltrami, Bemidji, Minnesota, US
+Lake Bingham, Cottonwood, Bingham Lake, Minnesota, US
+Lake Birch, Aitkin, Aitkin, Minnesota, US
+Lake Birch, Becker, Callaway, Minnesota, US
+Lake Birch, Cass, Hackensack, Minnesota, US
+Lake Birch, Cass, Remer, Minnesota, US
+Lake Birch, Lake, Ely, Minnesota, US
+Lake Birch, Sherburne, Big Lake, Minnesota, US
+Lake Birch, St. Louis, Babbit, Minnesota, US
+Lake Birch (Big), Todd, Grey Eagle, Minnesota, US
+Lake Birch (Little), Todd, Grey Eagle, Minnesota, US
+Lake Black, Beltrami, Turtle River, Minnesota, US
+Lake Blackduck, Beltrami, Blackduck, Minnesota, US
+Lake Blackduck, St. Louis, Orr, Minnesota, US
+Lake Blackwater, Cass, Longville, Minnesota, US
+Lake Blackwater, Itasca, Cohasset, Minnesota, US
+Lake Blackwell, Douglas, Holmes City, Minnesota, US
+Lake Blanche, Otter Tail, Ottertail, Minnesota, US
+Lake Blandin, Itasca, Grand Rapids, Minnesota, US
+Lake Blind, Aitkin, Aitkin, Minnesota, US
+Lake Block, Otter Tail, Urbank, Minnesota, US
+Lake Bloody, Murray, Currie, Minnesota, US
+Lake Blue, Hubbard, Park Rapids, Minnesota, US
+Lake Blue, Isanti, Princeton, Minnesota, US
+Lake Blueberry, Wadena, Menahga, Minnesota, US
+Lake Bluewater, Itasca, Grand Rapids, Minnesota, US
+Lake Boedigheimer, Otter Tail, Richville, Minnesota, US
+Lake Bone, Washington, Forest Lake, Minnesota, US
+Lake Boot, Becker, Two Inlets, Minnesota, US
+Lake Boot, Beltrami, Bemidji, Minnesota, US
+Lake Borden, Crow Wing, Garrison, Minnesota, US
+Lake Bouder, Cook, Grand Marais, Minnesota, US
+Lake Boulder, Hubbard, Dorset, Minnesota, US
+Lake Bowstring, Itasca, Deer River, Minnesota, US
+Lake Boy, Cass, Boy River, Minnesota, US
+Lake Boyer, Becker, Lake Park, Minnesota, US
+Lake Briggs, Sherburne, Clear Lake, Minnesota, US
+Lake Brophy, Douglas, Alexandria, Minnesota, US
+Lake Browns, Lake, Ely, Minnesota, US
+Lake Brule, Cook, Grand Marais, Minnesota, US
+Lake Bryant, Hennepin, Eden Prairie, Minnesota, US
+Lake Buchanan, Otter Tail, Ottertail, Minnesota, US
+Lake Buck, Beltrami, Cass Lake, Minnesota, US
+Lake Buck, Itasca, Nashwauk, Minnesota, US
+Lake Buffalo, Becker, Richwood, Minnesota, US
+Lake Buffalo, Murray, Dovray, Minnesota, US
+Lake Burnt Shanty, Itasca, Marcell, Minnesota, US
+Lake Burntside, St. Louis, Tower, Minnesota, US
+Lake Burrows, Itasca, Marcell, Minnesota, US
+Lake Bush, Hennepin, Bloomington, Minnesota, US
+Lake Busties, Itasca, Holyoke, Minnesota, US
+Lake Button Box, Itasca, Togo, Minnesota, US
+Lake Byllesby, Dakota, Cannon Falls, Minnesota, US
+Lake Cadotte, St. Louis, Fairbanks, Minnesota, US
+Lake Calhoun, Hennepin, Minneapolis, Minnesota, US
+Lake Calhoun, Kandiyohi, Spicer, Minnesota, US
+Lake Cameron, Polk, Erskine, Minnesota, US
+Lake Cameron, St. Louis, Cotton, Minnesota, US
+Lake Camp, Crow Wing, Pine Center, Minnesota, US
+Lake Camp, Swift, Swift Falls, Minnesota, US
+Lake Campbell, Beltrami, Puposky, Minnesota, US
+Lake Cannon, Rice, Faribault, Minnesota, US
+Lake Carey, St. Louis, Hibbing, Minnesota, US
+Lake Caribou, Cook, Lutsen, Minnesota, US
+Lake Caribou, Cook, Grand Marais, Minnesota, US
+Lake Caribou, Itasca, Marcell, Minnesota, US
+Lake Carlos, Douglas, Alexandria, Minnesota, US
+Lake Cascade, Cook, Lutsen, Minnesota, US
+Lake Cass, Beltrami, Cass Lake, Minnesota, US
+Lake Cedar, Aitkin, McGrath, Minnesota, US
+Lake Cedar, Aitkin, Aitkin, Minnesota, US
+Lake Cedar, Hennepin, Minneapolis, Minnesota, US
+Lake Cedar, McLeod, Cedar Mills, Minnesota, US
+Lake Cedar, Rice, Faribault, Minnesota, US
+Lake Cedar, Scott, New Prague, Minnesota, US
+Lake Cedar Island, St. Louis, Biwabik, Minnesota, US
+Lake Cedar Island, Stearns, Richmond, Minnesota, US
+Lake Center (North), Chisago, Center City, Minnesota, US
+Lake Center (South), Chisago, Lindstrom, Minnesota, US
+Lake Centerville, Anoka, Centerville, Minnesota, US
+Lake Chase, Itasca, Deer River, Minnesota, US
+Lake Child, Cass, Longville, Minnesota, US
+Lake Chippewa (Big), Douglas, Brandon, Minnesota, US
+Lake Chippewa (Little), Douglas, Brandon, Minnesota, US
+Lake Chisago City, Chisago, Chisago, Minnesota, US
+Lake Christina, Douglas, Ashby, Minnesota, US
+Lake Christmas, Hennepin, Eden Prairie, Minnesota, US
+Lake Chub, Carlton, Carlton, Minnesota, US
+Lake Chub, Dakota, Farmington, Minnesota, US
+Lake Chub, St. Louis, Ash Lake, Minnesota, US
+Lake Church, Mahnomen, Mahnomen, Minnesota, US
+Lake Circle, Rice, Lonsdale, Minnesota, US
+Lake Clear, Aitkin, Glen, Minnesota, US
+Lake Clear, Crow Wing, Jenkins, Minnesota, US
+Lake Clear, Goodhue, Hastings, Minnesota, US
+Lake Clear, Jackson, Jackson, Minnesota, US
+Lake Clear, Lesueur, Lexington, Minnesota, US
+Lake Clear, Meeker, Watkins, Minnesota, US
+Lake Clear, Otter Tail, Dalton, Minnesota, US
+Lake Clear, Sibley, Gibbon, Minnesota, US
+Lake Clear, St. Louis, Ely, Minnesota, US
+Lake Clear, St. Louis, Buhl, Minnesota, US
+Lake Clear, Waseca, Waseca, Minnesota, US
+Lake Clear, Washington, Forest Lake, Minnesota, US
+Lake Clearwater, Beltrami, Leonard, Minnesota, US
+Lake Clearwater, Crow Wing, Deerwood, Minnesota, US
+Lake Clitherall, Otter Tail, Dalton, Minnesota, US
+Lake Clubhouse, Itasca, Marcell, Minnesota, US
+Lake Cody, Rice, Montgomery, Minnesota, US
+Lake Colby, St. Louis, Hoyt Lakes, Minnesota, US
+Lake Comfort, Chisago, Wyoming, Minnesota, US
+Lake Como, Ramsey, St. Paul, Minnesota, US
+Lake Comstock, St. Louis, Whiteface, Minnesota, US
+Lake Coon, Anoka, Soderville, Minnesota, US
+Lake Coon, Itasca, Big Fork, Minnesota, US
+Lake Cormorant (Big), Becker, Audubon, Minnesota, US
+Lake Cormorant (Little), Becker, Audubon, Minnesota, US
+Lake Cotton, Becker, Rochert, Minnesota, US
+Lake Cottonwood, Grant, Donnelly, Minnesota, US
+Lake Cottonwood, Lyon, Cottonwood, Minnesota, US
+Lake Cowdry, Douglas, Alexandria, Minnesota, US
+Lake Crane, Otter Tail, Battle Lake, Minnesota, US
+Lake Crane, St. Louis, Crane Lake, Minnesota, US
+Lake Crawford, Wright, Montrose, Minnesota, US
+Lake Crescent, Cook, Grand Marais, Minnesota, US
+Lake Crooked, Itasca, Marble, Minnesota, US
+Lake Cross, Crow Wing, Cross Lake, Minnesota, US
+Lake Cross, Pine, Pine City, Minnesota, US
+Lake Cross, Polk, Fosston, Minnesota, US
+Lake Crow Wing, Crow Wing, Ft Ripley, Minnesota, US
+Lake Cruiser, St. Louis, Ray, Minnesota, US
+Lake Crystal, Dakota, Burnsville, Minnesota, US
+Lake Crystal, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Crystal, Stevens, Morris, Minnesota, US
+Lake Cullen (Lower), Crow Wing, Nisswa, Minnesota, US
+Lake Cullen (Middle), Crow Wing, Nisswa, Minnesota, US
+Lake Cullen (Upper), Crow Wing, Nisswa, Minnesota, US
+Lake Currant, Murray, Balaton, Minnesota, US
+Lake Cut Foot Sioux, Itasca, Squaw Lake, Minnesota, US
+Lake Cutaway, Itasca, Bovey, Minnesota, US
+Lake Dago, Pine, Willow River, Minnesota, US
+Lake Dam, Aitkin, Aitkin, Minnesota, US
+Lake Dark, St. Louis, Buhl, Minnesota, US
+Lake Darling, Douglas, Alexandria, Minnesota, US
+Lake Dead, Becker, Frazee, Minnesota, US
+Lake Dead, Hubbard, Dorset, Minnesota, US
+Lake Dead, Otter Tail, Dent, Minnesota, US
+Lake Dead Coon, Lincoln, Arco, Minnesota, US
+Lake Dean, Wright, Buffalo, Minnesota, US
+Lake Deer, Beltrami, Bemidji, Minnesota, US
+Lake Deer, Itasca, Deer River, Minnesota, US
+Lake Deer, Itasca, Effie, Minnesota, US
+Lake Deer, Otter Tail, Battle Lake, Minnesota, US
+Lake Deer, Wright, Buffalo, Minnesota, US
+Lake Demontreville, Washington, Lake Elmo, Minnesota, US
+Lake Detroit, Becker, Detroit Lakes, Minnesota, US
+Lake Devil Track, Cook, Grand Marais, Minnesota, US
+Lake Devils, Douglas, Brandon, Minnesota, US
+Lake Devils, Otter Tail, Perham, Minnesota, US
+Lake Dewey, St. Louis, Chisholm, Minnesota, US
+Lake Diamond, Hennepin, Rogers, Minnesota, US
+Lake Diamond, Kandiyohi, Atwater, Minnesota, US
+Lake Dinham, St. Louis, Melrude, Minnesota, US
+Lake Dixon, Itasca, Squaw Lake, Minnesota, US
+Lake Dolney, Crow Wing, Emily, Minnesota, US
+Lake Dora, Itasca, Wirt, Minnesota, US
+Lake Doran, Clay, Hawley, Minnesota, US
+Lake Double, Cottonwood, Storden, Minnesota, US
+Lake Dovre, St. Louis, Crane Lake, Minnesota, US
+Lake Duck, Hubbard, Hubbard, Minnesota, US
+Lake Dumbbell, Lake, Isabella, Minnesota, US
+Lake Dunbar, Itasca, Squaw Lake, Minnesota, US
+Lake Dutch, Hennepin, Mound, Minnesota, US
+Lake Dutch, Wright, Howard Lake, Minnesota, US
+Lake Eagle, Becker, Frazee, Minnesota, US
+Lake Eagle, Blue Earth, Madison Lake, Minnesota, US
+Lake Eagle, Crow Wing, Deerwood, Minnesota, US
+Lake Eagle, Crow Wing, Fifty Lakes, Minnesota, US
+Lake Eagle, Hennepin, Maple Grove, Minnesota, US
+Lake Eagle, Hubbard, Park Rapids, Minnesota, US
+Lake Eagle, Itasca, Marcell, Minnesota, US
+Lake Eagle, Kandiyohi, Willmar, Minnesota, US
+Lake Eagle, Otter Tail, Battle Lake, Minnesota, US
+Lake Eagle, Sherburne, Big Lake, Minnesota, US
+Lake Eagle, Wright, Maple Lake, Minnesota, US
+Lake Eagles Nest 1, St. Louis, Ely, Minnesota, US
+Lake Eagles Nest 2, St. Louis, Ely, Minnesota, US
+Lake Eagles Nest 3, St. Louis, Soudan, Minnesota, US
+Lake Eagles Nest 4, St. Louis, Ely, Minnesota, US
+Lake East Battle, Otter Tail, Henning, Minnesota, US
+Lake East Chub, Lake, Isabella, Minnesota, US
+Lake East Crooked, Hubbard, Nevis, Minnesota, US
+Lake East Jefferson, Lesueur, Cleveland, Minnesota, US
+Lake East Leaf, Otter Tail, Henning, Minnesota, US
+Lake East Lost, Otter Tail, Battle Lake, Minnesota, US
+Lake East Side, Mower, Austin, Minnesota, US
+Lake East Silent, Otter Tail, Dent, Minnesota, US
+Lake East Soloman, Kandiyohi, Willmar, Minnesota, US
+Lake East Twin, Lyon, Florence, Minnesota, US
+Lake Eden, Stearns, Eden Valley, Minnesota, US
+Lake Edward, Crow Wing, Merrifield, Minnesota, US
+Lake Eighth Crow Wing, Hubbard, Nevis, Minnesota, US
+Lake Elbow, Becker, Waubun, Minnesota, US
+Lake Elbow, Cook, Grand Marais, Minnesota, US
+Lake Elbow, Cook, Tofte, Minnesota, US
+Lake Elbow, Otter Tail, Battle Lake, Minnesota, US
+Lake Elbow, Pine, Finlayson, Minnesota, US
+Lake Elbow, St. Louis, Orr, Minnesota, US
+Lake Elbow, St. Louis, Iron Junction, Minnesota, US
+Lake Elephant, St. Louis, Orr, Minnesota, US
+Lake Eleven, Kanabec, Kroschel, Minnesota, US
+Lake Eleven, Pine, Sturgeon Lake, Minnesota, US
+Lake Eleventh Crow Wing, Hubbard, Akeley, Minnesota, US
+Lake Elizabeth, Kandiyohi, Atwater, Minnesota, US
+Lake Elk, Clearwater, Lake Itasca, Minnesota, US
+Lake Elk, Grant, Hoffman, Minnesota, US
+Lake Elk (Big), Sherburne, Clear Lake, Minnesota, US
+Lake Elk (Little), Sherburne, Zimmerman, Minnesota, US
+Lake Elliot, St. Louis, Eveleth, Minnesota, US
+Lake Elm Island, Aitkin, Aitkin, Minnesota, US
+Lake Elmo, Washington, Lake Elmo, Minnesota, US
+Lake Elora, St. Louis, Cotton, Minnesota, US
+Lake Ely, St. Louis, Eveleth, Minnesota, US
+Lake Elysian, Waseca, Elysian, Minnesota, US
+Lake Embarrass, St. Louis, Biwabik, Minnesota, US
+Lake Emily, Crow Wing, Emily, Minnesota, US
+Lake Emily, Lesueur, St.Peter, Minnesota, US
+Lake Emily, Pope, Hancock, Minnesota, US
+Lake Emma, Wright, Howard Lake, Minnesota, US
+Lake Esquagama, St. Louis, Biwabik, Minnesota, US
+Lake Esquagamah, Aitkin, Palisade, Minnesota, US
+Lake Ethel, Otter Tail, Ottertail, Minnesota, US
+Lake Eunice, Becker, Audubon, Minnesota, US
+Lake Everett, St. Louis, Ely, Minnesota, US
+Lake Evergreen, Hubbard, Lake George, Minnesota, US
+Lake Fairy, Todd, Sauk Centre, Minnesota, US
+Lake Fall, Lake, Winton, Minnesota, US
+Lake Fannie, Isanti, Cambridge, Minnesota, US
+Lake Farm, Lake, Ely, Minnesota, US
+Lake Farm Island, Aitkin, Bennettville, Minnesota, US
+Lake Fenske, St. Louis, Ely, Minnesota, US
+Lake Fifteen, Clay, Hawley, Minnesota, US
+Lake Fifth Crow Wing, Hubbard, Nevis, Minnesota, US
+Lake First Crow Wing, Hubbard, Hubbard, Minnesota, US
+Lake First Fulda, Murray, Fulda, Minnesota, US
+Lake Fish, Chisago, Harris, Minnesota, US
+Lake Fish, Hennepin, Maple Grove, Minnesota, US
+Lake Fish, Jackson, Windom, Minnesota, US
+Lake Fish, Otter Tail, Parkers Prairie, Minnesota, US
+Lake Fish, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Fish, Otter Tail, Fergus Falls, Minnesota, US
+Lake Fish, Scott, Prior Lake, Minnesota, US
+Lake Fishhook, Hubbard, Park Rapids, Minnesota, US
+Lake Fiske, Otter Tail, Battle Lake, Minnesota, US
+Lake Five, Otter Tail, Vergas, Minnesota, US
+Lake Five Island(Ball), Itasca, Effie, Minnesota, US
+Lake Five Point, Cass, Hackensack, Minnesota, US
+Lake Fleming, Aitkin, Palisade, Minnesota, US
+Lake Floodwood, St. Louis, Goodland, Minnesota, US
+Lake Florida, Kandiyohi, Spicer, Minnesota, US
+Lake Flowage, Aitkin, McGregor, Minnesota, US
+Lake Floyd, Becker, Detroit Lakes, Minnesota, US
+Lake Foot, Kandiyohi, Willmar, Minnesota, US
+Lake Forest Lake, Washington, Forest Lake, Minnesota, US
+Lake Forget-Me-Not, Becker, Lake Park, Minnesota, US
+Lake Fountain, Freeborn, Albert Lea, Minnesota, US
+Lake Four Mile, Cook, Tofte, Minnesota, US
+Lake Fox, Itasca, Marcell, Minnesota, US
+Lake Fox, Murray, Currie, Minnesota, US
+Lake Fox, Pine, Willow River, Minnesota, US
+Lake Fox, Rice, Shieldsville, Minnesota, US
+Lake Fox (East), Crow Wing, Fifty Lakes, Minnesota, US
+Lake Fox (West), Crow Wing, Fifty Lakes, Minnesota, US
+Lake Frances, Lesueur, Elysian, Minnesota, US
+Lake Francis, Isanti, Isanti, Minnesota, US
+Lake Francis, Meeker, Kingston, Minnesota, US
+Lake Franklin, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Franklin, St. Louis, Crane Lake, Minnesota, US
+Lake Freeborn, Douglas, Farwell, Minnesota, US
+Lake Freeborn, Freeborn, Freeborn, Minnesota, US
+Lake Fremont, Sherburne, Zimmerman, Minnesota, US
+Lake French, Rice, Faribault, Minnesota, US
+Lake French, Wright, Annanndale, Minnesota, US
+Lake Frontenac, Hubbard, Becida, Minnesota, US
+Lake Games, Kandiyohi, Sunburg, Minnesota, US
+Lake Garden, Lake, Ely, Minnesota, US
+Lake Garfield, Hubbard, Laporte, Minnesota, US
+Lake Gegoka, Lake, Isabella, Minnesota, US
+Lake Geneva, Douglas, Alexandria, Minnesota, US
+Lake Geneva, Freeborn, Geneva, Minnesota, US
+Lake George, Anoka, St Francis, Minnesota, US
+Lake George, Cass, Outing, Minnesota, US
+Lake George, Hubbard, Lake George, Minnesota, US
+Lake George, Kandiyohi, Spicer, Minnesota, US
+Lake German, Lesueur, Elysian, Minnesota, US
+Lake Gervais, Ramsey, Little Canada, Minnesota, US
+Lake Gilbert, Crow Wing, Brainerd, Minnesota, US
+Lake Gilbert, Douglas, Holmes City, Minnesota, US
+Lake Gilchrist, Pope, Sedan, Minnesota, US
+Lake Gilfillian, Ramsey, White Bear Lake, Minnesota, US
+Lake Gilstad, Beltrami, Blackduck, Minnesota, US
+Lake Girl, Cass, Longville, Minnesota, US
+Lake Golden, Anoka, Circle Pines, Minnesota, US
+Lake Goose, Chisago, Stark, Minnesota, US
+Lake Goose, Goodhue, Red Wing, Minnesota, US
+Lake Goose Prairie, Clay, Hitterdahl, Minnesota, US
+Lake Gorman, Lesueur, Le Center, Minnesota, US
+Lake Grace, Hubbard, Bemidji, Minnesota, US
+Lake Graham, Otter Tail, Frazee, Minnesota, US
+Lake Grand, St. Louis, Twig, Minnesota, US
+Lake Grand, Stearns, Cold Spring, Minnesota, US
+Lake Granite, Wright, Annanndale, Minnesota, US
+Lake Grant, Beltrami, Wilton, Minnesota, US
+Lake Grassy, St. Louis, Ely, Minnesota, US
+Lake Grave, Itasca, Marcell, Minnesota, US
+Lake Great Northern, Stearns, Cold Spring, Minnesota, US
+Lake Green, Chisago, Chisago City, Minnesota, US
+Lake Green, Isanti, Princeton, Minnesota, US
+Lake Green, Kandiyohi, Spicer, Minnesota, US
+Lake Greenleaf, Lesueur, Montgomery, Minnesota, US
+Lake Greenleaf, Meeker, Litchfield, Minnesota, US
+Lake Greenstone, Lake, Ely, Minnesota, US
+Lake Greenwood, Cook, Grand Marais, Minnesota, US
+Lake Greenwood, Lake, Isabella, Minnesota, US
+Lake Grindstone, Pine, Sandstone, Minnesota, US
+Lake Grove, Pope, Sedan, Minnesota, US
+Lake Gun, Aitkin, Palisade, Minnesota, US
+Lake Gunderson, Itasca, Talmoon, Minnesota, US
+Lake Gull, Cass, Nisswa, Minnesota, US
+Lake Gunn, Itasca, Marcell, Minnesota, US
+Lake Half Moon, St. Louis, Eveleth, Minnesota, US
+Lake Ham, Anoka, Ham Lake, Minnesota, US
+Lake Ham, Anoka, Blaine, Minnesota, US
+Lake Hammal, Aitkin, Aitkin, Minnesota, US
+Lake Hancock, Otter Tail, Battle Lake, Minnesota, US
+Lake Hand, Cass, BackUS Minnesota, US
+Lake Hanging Horn, Carlton, Barnum, Minnesota, US
+Lake Hanging Kettle, Aitkin, Aitkin, Minnesota, US
+Lake Hanska, Brown, Hanska, Minnesota, US
+Lake Harriet, Hennepin, Minneapolis, Minnesota, US
+Lake Harriet, Lake, Isabella, Minnesota, US
+Lake Hart, Hubbard, Guthrie, Minnesota, US
+Lake Hart, Itasca, Pengilly, Minnesota, US
+Lake Hartley, Itasca, Nashwauk, Minnesota, US
+Lake Hatch, Itasca, Marcell, Minnesota, US
+Lake Hattie, Hubbard, Lake George, Minnesota, US
+Lake Hattie, Stevens, Alberta, Minnesota, US
+Lake Hawks Nest, Lincoln, Ivanhoe, Minnesota, US
+Lake Hay, Carlton, Wrenshal, Minnesota, US
+Lake Hay, Cass, BackUS Minnesota, US
+Lake Hay (Lower), Crow Wing, Jenkins, Minnesota, US
+Lake Hay (Upper), Crow Wing, Jenkins, Minnesota, US
+Lake Head, Otter Tail, Richville, Minnesota, US
+Lake Heart, Clearwater, Zerkel, Minnesota, US
+Lake Height of Land, Becker, Detroit Lakes, Minnesota, US
+Lake Heilberger, Otter Tail, Erhard, Minnesota, US
+Lake Henderson, Kandyohi, Spicer, Minnesota, US
+Lake Hendricks, Lincoln, Hendricks, Minnesota, US
+Lake Hennepin, Hubbard, Becida, Minnesota, US
+Lake Heron, Jackson, Lakefield, Minnesota, US
+Lake Hiawatha, Hennepin, Minneapolis, Minnesota, US
+Lake Hill, Aitkin, Hill City, Minnesota, US
+Lake Hinds, Hubbard, Park Rapids, Minnesota, US
+Lake Holloway (Bass), Itasca, Wirt, Minnesota, US
+Lake Holman, Itasca, Bovey, Minnesota, US
+Lake Home, Norman, Ada, Minnesota, US
+Lake Homer, Cook, Lutsen, Minnesota, US
+Lake Hook, McLeod, Hutchinson, Minnesota, US
+Lake Hope, Meeker, Grove City, Minnesota, US
+Lake Horsehoe, Cass, BackUS Minnesota, US
+Lake Horseshoe, Chisago, Harris, Minnesota, US
+Lake Horseshoe, Hubbard, Laporte, Minnesota, US
+Lake Horseshoe, Itasca, Marcell, Minnesota, US
+Lake Horseshoe, Lesueur, Waterville, Minnesota, US
+Lake Horseshoe, Stearns, Richmond, Minnesota, US
+Lake Howard, Wright, Howard Lake, Minnesota, US
+Lake Hubert, Crow Wing, Nisswa, Minnesota, US
+Lake Hungry, Becker, Frazee, Minnesota, US
+Lake Ice Cracking, Becker, Ponsford, Minnesota, US
+Lake Ida, Becker, Lake Park, Minnesota, US
+Lake Ida, Douglas, Alexandria, Minnesota, US
+Lake Ida, Wright, Monticello, Minnesota, US
+Lake Ina, Douglas, Melby, Minnesota, US
+Lake Independence, Hennepin, Maple Plain, Minnesota, US
+Lake Indian, Wright, Silver Creek, Minnesota, US
+Lake Inguadona, Cass, Longville, Minnesota, US
+Lake Irene, Douglas, Miltona, Minnesota, US
+Lake Irving, Beltrami, Bemidji, Minnesota, US
+Lake Isabella, Lake, Isabella, Minnesota, US
+Lake Island, Aitkin, Tamarack, Minnesota, US
+Lake Island, Becker, Snellman, Minnesota, US
+Lake Island, Hubbard, Park Rapids, Minnesota, US
+Lake Island, Itasca, Northome, Minnesota, US
+Lake Island, Mahnomen, Lengby, Minnesota, US
+Lake Island, Pine, Sturgeon Lake, Minnesota, US
+Lake Island, St. Louis, Goodland, Minnesota, US
+Lake Island North, Carlton, Cromwell, Minnesota, US
+Lake Island South, Carlton, Cromwell, Minnesota, US
+Lake Itasca, Clearwater, Lake Itasca, Minnesota, US
+Lake Jack the Horse, Itasca, Marcell, Minnesota, US
+Lake Jane, Washington, Lake Elmo, Minnesota, US
+Lake Janette, St. Louis, Goodland, Minnesota, US
+Lake Jasper, Lake, Ely, Minnesota, US
+Lake Jay Gould, Itasca, Cohasset, Minnesota, US
+Lake Jefferson, Le Sueur County, Cleveland, Minnesota, US
+Lake Jennie, Meeker, Dassel, Minnesota, US
+Lake Jessie, Itasca, Talmoon, Minnesota, US
+Lake Jewett, Otter Tail, Elizabeth, Minnesota, US
+Lake Johanna, Pope, Brooten, Minnesota, US
+Lake Johanna, Ramsey, Arden Hills, Minnesota, US
+Lake John, Wright, Annanndale, Minnesota, US
+Lake Johnson, Itasca, Marcell, Minnesota, US
+Lake Johnson, Itasca, Grand Rapids, Minnesota, US
+Lake Johnson, Otter Tail, Dalton, Minnesota, US
+Lake Johnson, St. Louis, Ely, Minnesota, US
+Lake Johnson, St. Louis, Crane Lake, Minnesota, US
+Lake Jolly Ann, Otter Tail, Dalton, Minnesota, US
+Lake Josephine, Ramsey, Roseville, Minnesota, US
+Lake Juggler, Becker, Ponsford, Minnesota, US
+Lake Julia, Beltrami, Puposky, Minnesota, US
+Lake Julia, Sherburne, Clear Lake, Minnesota, US
+Lake Kabekona, Hubbard, Laporte, Minnesota, US
+Lake Kabetogama, St. Louis, Kabetogama, Minnesota, US
+Lake Kego, Crow Wing, Fifty Lakes, Minnesota, US
+Lake King, Itasca, Taconite, Minnesota, US
+Lake Kitchi, Beltrami, Pennington, Minnesota, US
+Lake Kjostad, St. Louis, Buyck, Minnesota, US
+Lake KnaUS Stearns, Cold Spring, Minnesota, US
+Lake Knife, Kanabec, Mora, Minnesota, US
+Lake Kohlmeier, Steele, Owatonna, Minnesota, US
+Lake Koronis, Stearns, Paynesville, Minnesota, US
+Lake Kroon, Chisago, Lindstrom, Minnesota, US
+Lake Lac qui Parle, Lac Qui Parle, Milan, Minnesota, US
+Lake Lady, Todd, Grey Eagle, Minnesota, US
+Lake Lady Slipper, Lyon, Cottonwood, Minnesota, US
+Lake Lake of the Isles, Hennepin, Minneapolis, Minnesota, US
+Lake Lake of the Woods, Lake of the Woods, Warroad, 950400, Minnesota, US
+Lake Langdon, Hennepin, Mound, 144, 82., Minnesota, US
+Lake Large Henry, Swift, Appleton, Minnesota, US
+Lake Latoka, Douglas, Alexandria, Minnesota, US
+Lake Lawrence, Itasca, Taconite, Minnesota, US
+Lake Le Homme Dieu, Douglas, Alexandria, Minnesota, US
+Lake Lee, Clay, Hawley, Minnesota, US
+Lake Leech, Cass, Walker, Minnesota, US
+Lake Leek, Otter Tail, Vergas, Minnesota, US
+Lake Leif, Becker, Audubon, Minnesota, US
+Lake Leighton, Itasca, Cohasset, Minnesota, US
+Lake Leora (called Elora), St. Louis, Cotton, Minnesota, US
+Lake Leven, Pope, Villard, Minnesota, US
+Lake Lewis, Kanabec, Ogilve, Minnesota, US
+Lake Lida (North), Otter Tail, Pelican Rapids, Minnesota, US
+Lake Lida (South), Otter Tail, Pelican Rapids, Minnesota, US
+Lake Lightning, Grant, Wendell, Minnesota, US
+Lake Lime, Murray, Avoca, Minnesota, US
+Lake Limestone, Wright, Clearwater, Minnesota, US
+Lake Lind, Cass, BackUS Minnesota, US
+Lake Lindstrom (North), Chisago, Lindstrom, Minnesota, US
+Lake Lindstrom (South), Chisago, Lindstrom, Minnesota, US
+Lake Linka, Pope, Sedan, Minnesota, US
+Lake Linn, Chisago, Lindstrom, Minnesota, US
+Lake Linwood, Anoka, Wyoming, Minnesota, US
+Lake Linwood, St. Louis, Markham, Minnesota, US
+Lake Little, Chisago, Center City, Minnesota, US
+Lake Little Bass, Cass, Outing, Minnesota, US
+Lake Little Bass, Itasca, Cohasset, Minnesota, US
+Lake Little Bear, Itasca, Togo, Minnesota, US
+Lake Little Bemidji, Becker, Ponsford, Minnesota, US
+Lake Little Bowstring, Itasca, Deer River, Minnesota, US
+Lake Little Boy, Cass, Longville, Minnesota, US
+Lake Little Cut Foot Sioux, Itasca, Deer River, Minnesota, US
+Lake Little Elbow, Mahnomen, Waubun, Minnesota, US
+Lake Little Emily, Crow Wing, Outing, Minnesota, US
+Lake Little Floyd, Becker, Detroit Lakes, Minnesota, US
+Lake Little Hubert, Crow Wing, Nisswa, Minnesota, US
+Lake Little Island, Hubbard, Nevis, Minnesota, US
+Lake Little Jessie, Itasca, Deer River, Minnesota, US
+Lake Little Johnson, St. Louis, Crane Lake, Minnesota, US
+Lake Little Long, St. Louis, Ely, Minnesota, US
+Lake Little McDonald, Otter Tail, Perham, Minnesota, US
+Lake Little Moose, Itasca, Grand Rapids, Minnesota, US
+Lake Little Pelican, Crow Wing, Breezy Point, Minnesota, US
+Lake Little Pelican, Otter Tail, Vergas, Minnesota, US
+Lake Little Pine, Crow Wing, Cross Lake, Minnesota, US
+Lake Little Rock, Benton, Rice, Minnesota, US
+Lake Little Saganaga, Cook, BWCA, Minnesota, US
+Lake Little Sand, Itasca, Squaw Lake, Minnesota, US
+Lake Little Spirit, Jackson, Jackson, Minnesota, US
+Lake Little Stone, St. Louis, Two Harbors, Minnesota, US
+Lake Little Sturgeon, St. Louis, Chisholm, Minnesota, US
+Lake Little Toad, Becker, Frazze, Minnesota, US
+Lake Little Trout, St. Louis, Tower, Minnesota, US
+Lake Little Trout, St. Louis, Crane Lake, Minnesota, US
+Lake Little Turtle, Itasca, Talmoon, Minnesota, US
+Lake Little Vermilion, St. Louis, Crane Lake, Minnesota, US
+Lake Little Vermillion, Cass, Remer, Minnesota, US
+Lake Little Winnibigoshish, Itasca, Deer River, Minnesota, US
+Lake Lizzie, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Lobster, Douglas, Garfield, Minnesota, US
+Lake Locke, Wright, Clearwater, Minnesota, US
+Lake Lomond, Clearwater, Bagley, Minnesota, US
+Lake Lone, Aitkin, Aitkin, Minnesota, US
+Lake Long, Aitkin, Glen, Minnesota, US
+Lake Long, Becker, Detroit Lakes, Minnesota, US
+Lake Long, Beltrami, Turtle River, Minnesota, US
+Lake Long, Beltrami, Puposky, Minnesota, US
+Lake Long, Cass, Longville, Minnesota, US
+Lake Long, Douglas, Evansville, Minnesota, US
+Lake Long, Hennepin, Long Lake, Minnesota, US
+Lake Long, Hubbard, Park Rapids, Minnesota, US
+Lake Long, Itasca, Bigfork, Minnesota, US
+Lake Long, Kandiyohi, New London, Minnesota, US
+Lake Long, Kandiyohi, Willmar, Minnesota, US
+Lake Long, Meeker, Grove City, Minnesota, US
+Lake Long, Morrison, Sullivan, Minnesota, US
+Lake Long, Otter Tail, Vergas, Minnesota, US
+Lake Long, Otter Tail, Dalton, Minnesota, US
+Lake Long, Otter Tail, Ottertail, Minnesota, US
+Lake Long, Otter Tail, Weetown, Minnesota, US
+Lake Long, Otter Tail, Fergus Falls, Minnesota, US
+Lake Long, St. Louis, Makinen, Minnesota, US
+Lake Long, St. Louis, Crane Lake, Minnesota, US
+Lake Long, St. Louis, Chisholm, Minnesota, US
+Lake Long, St. Louis, Cotton, Minnesota, US
+Lake Long, Stearns, Richmond, Minnesota, US
+Lake Long, Stevens, CyrUS Minnesota, US
+Lake Long, Todd, Burtrum, Minnesota, US
+Lake Long, Todd, Sauk Centre, Minnesota, US
+Lake Long (North), Crow Wing, Merrifield, Minnesota, US
+Lake Long Lost, Clearwater, Zerkel, Minnesota, US
+Lake Longyear, St. Louis, Chisholm, Minnesota, US
+Lake Loon, Itasca, Grand Rapids, Minnesota, US
+Lake Loon, Jackson, Jackson, Minnesota, US
+Lake Loon, Otter Tail, Vergas, Minnesota, US
+Lake Loon, St. Louis, Aurora, Minnesota, US
+Lake Loon, Waseca, Waseca, Minnesota, US
+Lake Lory, Isanti, Dalbo, Minnesota, US
+Lake Lost, Hennepin, Osseo, Minnesota, US
+Lake Lost, St. Louis, Tower, Minnesota, US
+Lake LotUS Carver, Chanhassen, Minnesota, US
+Lake Louisa, Murray, Westbrook, Minnesota, US
+Lake Louise, Douglas, Alexandria, Minnesota, US
+Lake Louise, Mower, Le Roy, Minnesota, US
+Lake Lower Bottle (Lower), Hubbard, Dorset, Minnesota, US
+Lake Lower Lasalle, Hubbard, Becida, Minnesota, US
+Lake Lower Spunk, Stearns, Avon, Minnesota, US
+Lake Lower Sucker, Cass, Cass Lake, Minnesota, US
+Lake Lower Twin, Wadena, Menahga, Minnesota, US
+Lake Lucy, Carver, Chanhassen, Minnesota, US
+Lake Lura, Blue Earth, Mapleton, Minnesota, US
+Lake Madison, Blue Earth, Madison Lake, Minnesota, US
+Lake Mallard, Aitkin, Aitkin, Minnesota, US
+Lake Malmedal, Pope, Lowry, Minnesota, US
+Lake Man, Cass, Hackensack, Minnesota, US
+Lake Manganika, St. Louis, Virginia, Minnesota, US
+Lake Mantrap (Big), Hubbard, Emmaville, Minnesota, US
+Lake Mantrap (Little), Hubbard, Park Papids, Minnesota, US
+Lake Manuella, Meeker, Darwin, Minnesota, US
+Lake Many Point, Becker, Ponsford, Minnesota, US
+Lake Maple, Douglas, Forada, Minnesota, US
+Lake Maple, Itasca, Marcell, Minnesota, US
+Lake Maple, Polk, Mentor, Minnesota, US
+Lake Maple, Todd, Little Sauk, Minnesota, US
+Lake Maple, Wright, Maple Lake, Minnesota, US
+Lake Marin, Clay, Hawley, Minnesota, US
+Lake Marion, Dakota, Lakeville, Minnesota, US
+Lake Marion, McLeod, Brownton, Minnesota, US
+Lake Marion, Otter Tail, Richville, Minnesota, US
+Lake Markham, St. Louis, Markham, Minnesota, US
+Lake Marquette, Beltrami, Bemidji, Minnesota, US
+Lake Marsh, Big Stone, Correll, Minnesota, US
+Lake Martin, Anoka, Wyoming, Minnesota, US
+Lake Mary, Crow Wing, Emily, Minnesota, US
+Lake Mary, Douglas, Alexandria, Minnesota, US
+Lake Mary, Wright, Maple Lake, Minnesota, US
+Lake Mary, Wright, Winsted, Minnesota, US
+Lake Maud, Becker, Audubon, Minnesota, US
+Lake Mayhew, Benton, Mayhew, Minnesota, US
+Lake Mayo, Crow Wing, Pequot Lakes, Minnesota, US
+Lake Mazaska, Rice, Shieldsville, Minnesota, US
+Lake McAvity, Itasca, Grand Rapids, Minnesota, US
+Lake McCraney, Mahnomen, Nay-tah-waush, Minnesota, US
+Lake McDonald (Big), Otter Tail, Perham, Minnesota, US
+Lake McDonald (Little), Otter Tail, Perham, Minnesota, US
+Lake McFarland, Cook, Hovland, Minnesota, US
+Lake McKinney, Itasca, Grand Rapids, Minnesota, US
+Lake McQuade, St. Louis, Hibbing, Minnesota, US
+Lake Medicine, Beltrami, Tenstrike, Minnesota, US
+Lake Medicine, Hennepin, Plymouth, Minnesota, US
+Lake Melissa, Becker, Detroit Lakes, Minnesota, US
+Lake Mempin, Beltrami, Redby, Minnesota, US
+Lake Meyer, Clay, Hitterdahl, Minnesota, US
+Lake Middle, Otter Tail, Battle Lake, Minnesota, US
+Lake Middle Cormorant, Becker, Lake Park, Minnesota, US
+Lake Middle Crooked, Hubbard, Nevis, Minnesota, US
+Lake Middle Leaf, Otter Tail, Ottertail, Minnesota, US
+Lake Middle Spunk, Stearns, Avon, Minnesota, US
+Lake Midge, Hubbard, Bemidji, Minnesota, US
+Lake Mill, Douglas, Alexandria, Minnesota, US
+Lake Mille Lacs, Mille Lacs, Garrison, Minnesota, US
+Lake Miltona, Douglas, Miltona, Minnesota, US
+Lake Mina, Douglas, Alexandria, Minnesota, US
+Lake Minerva, Clearwater, Alida, Minnesota, US
+Lake Mink, Wright, Maple Lake, Minnesota, US
+Lake Minnetonka, Hennepin, Minnetonka, Minnesota, US
+Lake Minnewashta, Carver, Chanhassen, Minnesota, US
+Lake Minnewaska, Pope, Glenwood, Minnesota, US
+Lake Minnewawa, Aitkin, McGregor, Minnesota, US
+Lake Minnie Belle, Meeker, Litchfield, Minnesota, US
+Lake Mission (Lower), Crow Wing, Merrifield, Minnesota, US
+Lake Mission (Upper), Crow Wing, Merrifield, Minnesota, US
+Lake Mitawan, Lake, Isabella, Minnesota, US
+Lake Mitchell, Crow Wing, Emily, Minnesota, US
+Lake Mitchell, Hennepin, Eden Prairie, Minnesota, US
+Lake Moose, Itasca, Deer River, Minnesota, US
+Lake Moose, Itasca, Northome, Minnesota, US
+Lake Moosehead, Carlton, Moose Lake, Minnesota, US
+Lake Moses, Douglas, Millerville, Minnesota, US
+Lake Mound, Todd, Burtrum, Minnesota, US
+Lake Mountain, Cottonwood, Mountain Lake, Minnesota, US
+Lake Movil, Beltrami, Bemidji, Minnesota, US
+Lake Mud, Otter Tail, Perham, Minnesota, US
+Lake Mud, Kandiyohi, New London, Minnesota, US
+Lake Mud, Traverse, Wheaton, Minnesota, US
+Lake Mukooda, St. Louis, Crane Lake, Minnesota, US
+Lake Mule, Cass, Longville, Minnesota, US
+Lake Murphy, St. Louis, Central Lakes, Minnesota, US
+Lake Myrtle, St. Louis, Orr, Minnesota, US
+Lake Nelson, Becker, Lake Park, Minnesota, US
+Lake Nelson, Pope, Glenwood, Minnesota, US
+Lake Nest, Kandiyohi, Spicer, Minnesota, US
+Lake Net, Becker, White Earth, Minnesota, US
+Lake Net, Pine, Nickerson, Minnesota, US
+Lake Nichols, St. Louis, Payne, Minnesota, US
+Lake Ninemile, Lake, Schroeder, Minnesota, US
+Lake Ninth Crow Wing, Hubbard, Akeley, Minnesota, US
+Lake Nokay, Crow Wing, Brainerd, Minnesota, US
+Lake Nokomis, Hennepin, Minneapolis, Minnesota, US
+Lake Nord, Aitkin, Aitkin, Minnesota, US
+Lake North Browns, Stearns, Eden Valley, Minnesota, US
+Lake North Lida, Otter Tail, Pelican Rapids, Minnesota, US
+Lake North Star, Itasca, Marcell, Minnesota, US
+Lake North Ten Mile, Otter Tail, Fergus Falls, Minnesota, US
+Lake North Turtle, Otter Tail, Underwood, Minnesota, US
+Lake North Twin, Beltrami, Turtle River, Minnesota, US
+Lake North Twin, Itasca, Marble, Minnesota, US
+Lake North Twin, Mahnomen, Nay-tah-waush, Minnesota, US
+Lake Northern Light, Cook, Grand Marais, Minnesota, US
+Lake Norway, Kandiyohi, Sunburg, Minnesota, US
+Lake Norway, Otter Tail, Underwood, Minnesota, US
+Lake No-Ta-She-Bun(Willow), Itasca, Remer, Minnesota, US
+Lake Oak, Pine, Duquette, Minnesota, US
+Lake O'Dowd, Scott, Shakopee, Minnesota, US
+Lake Ojibway, Lake, Ely, Minnesota, US
+Lake Okamanpeedan, Martin, Ceylon, Minnesota, US
+Lake Oliver, Swift, Appleton, Minnesota, US
+Lake Olson, Stevens, CyrUS Minnesota, US
+Lake Onamia, Mille Lacs, Onamia, Minnesota, US
+Lake One Pine, St. Louis, Ely, Minnesota, US
+Lake Orchard, Dakota, Lakeville, Minnesota, US
+Lake Ore-be-gone, St. Louis, Gilbert, Minnesota, US
+Lake Orono, Sherburne, Elk River, Minnesota, US
+Lake Orwell, Otter Tail, Fergus Falls, Minnesota, US
+Lake Osakis, Todd, Osakis, Minnesota, US
+Lake Oscar, Douglas, Holmes City, Minnesota, US
+Lake Otter Tail, Otter Tail, Ottertail, Minnesota, US
+Lake Owasso, Ramsey, Shoreview, Minnesota, US
+Lake Owen, Itasca, Bigfork, Minnesota, US
+Lake Ox Yoke, Cass, BackUS Minnesota, US
+Lake Page, Stevens, Hancock, Minnesota, US
+Lake Park, Carlton, Mahtowa, Minnesota, US
+Lake Parley, Carver, Waconia, Minnesota, US
+Lake Paul, Otter Tail, Perham, Minnesota, US
+Lake Pearl, Becker, Detroit Lakes, Minnesota, US
+Lake Pearl, Stearns, Cold Spring, Minnesota, US
+Lake Peavy, Morrison, Sullivan, Minnesota, US
+Lake Pelican, Crow Wing, Breezy Point, Minnesota, US
+Lake Pelican, Grant, Ashby, Minnesota, US
+Lake Pelican, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Pelican, Pope, Glenwood, Minnesota, US
+Lake Pelican, St. Louis, Orr, Minnesota, US
+Lake Pelican, Stearns, St.Anna, Minnesota, US
+Lake Pelkey, Morrison, Little Falls, Minnesota, US
+Lake Peltier, Anoka, Centerville, Minnesota, US
+Lake Pepin, Goodhue, Lake City, Minnesota, US
+Lake Pequaywan, St. Louis, Rollins, Minnesota, US
+Lake Perch, Lincoln, Ivanhoe, 224, 180, 16., Minnesota, US
+Lake Perch, St. Louis, Chisholm, Minnesota, US
+Lake Perent, Lake, Isabella, Minnesota, US
+Lake Perkins, Stevens, Morris, Minnesota, US
+Lake Phalen, Ramsey, St. Paul, Minnesota, US
+Lake Pickeral, Freeborn, Albert Lea, Minnesota, US
+Lake Pickerel, Becker, Detroit Lakes, Minnesota, US
+Lake Pickerel, Hubbard, Park Rapids, Minnesota, US
+Lake Pickerel, Itasca, Effie, Minnesota, US
+Lake Pickerel, Otter Tail, Maine, Minnesota, US
+Lake Picket, St. Louis, Buyck, Minnesota, US
+Lake Pierson, Carver, Victoria, Minnesota, US
+Lake Pierz, Morrison, Genola, Minnesota, US
+Lake Pike, Cass, Cass Lake, Minnesota, US
+Lake Pike, Cook, Grand Marais, Minnesota, US
+Lake Pimushe, Beltrami, Pennington, Minnesota, US
+Lake Pine (Big), Aitkin, Cutler, Minnesota, US
+Lake Pine (Little), Aitkin, Aitkin, Minnesota, US
+Lake Pine, Clearwater, Gonvick, Minnesota, US
+Lake Pine, Crow Wing, Cross Lake, Minnesota, US
+Lake Pine (Big), Otter Tail, Perham, Minnesota, US
+Lake Pine (Little), Otter Tail, Perham, Minnesota, US
+Lake Pine, St. Louis, Fairbanks, Minnesota, US
+Lake Pine Island, Todd, Cushing, Minnesota, US
+Lake Pine Mountain, Cass, BackUS Minnesota, US
+Lake Pine Tree, Washington, Dellwood, Minnesota, US
+Lake Plantagenet, Hubbard, Bemidji, Minnesota, US
+Lake Platte, Crow Wing, Sullivan, Minnesota, US
+Lake Pleasant, Cass, Hackensack, Minnesota, US
+Lake Pleasant, Otter Tail, Underwood, Minnesota, US
+Lake Pleasant, St. Louis, Eveleth, Minnesota, US
+Lake Pleasant, Stearns, Pleasant Lake, Minnesota, US
+Lake Pleasant, Wright, Annanndale, Minnesota, US
+Lake Pocket, Douglas, Lowry, Minnesota, US
+Lake Pokegama, Itasca, Grand Rapids, Minnesota, US
+Lake Pokegama, Pine, Pine City, Minnesota, US
+Lake Ponto, Cass, BackUS Minnesota, US
+Lake Poposky, Beltrami, Bemidji, Minnesota, US
+Lake Portage, Aitkin, McGregor, Minnesota, US
+Lake Portage, Hubbard, Park Rapids, Minnesota, US
+Lake Portage, Otter Tail, Ottertail, Minnesota, US
+Lake Portsmouth Pit, Crow Wing, Crosby, Minnesota, US
+Lake Potato, Hubbard, Park Rapids, Minnesota, US
+Lake Prairie, Itasca, Grand Rapids, Minnesota, US
+Lake Prairie, Otter Tail, Pelican Lake, Minnesota, US
+Lake Prairie, St. Louis, Floodwood, Minnesota, US
+Lake Preston, Renville, Buffalo Lake, Minnesota, US
+Lake Prior (Lower), Scott, Prior Lake, Minnesota, US
+Lake Prior (Upper), Scott, Prior Lake, Minnesota, US
+Lake Pulaski, Wright, Buffalo, Minnesota, US
+Lake Rabbit, Aitkin, Glen, Minnesota, US
+Lake Rabideau, Beltrami, Blackduck, Minnesota, US
+Lake Rachel, Douglas, Holmes City, Minnesota, US
+Lake Rainy, Koochiching, International Falls, Minnesota, US
+Lake Ramsey, Wright, Maple Lake, Minnesota, US
+Lake Rat, Aitkin, Palisade, Minnesota, US
+Lake Rat Root, Koochiching, International Falls, Minnesota, US
+Lake Razor, Pine, Cloverdale, Minnesota, US
+Lake Red (Lower), Beltrami, Ponemah, Minnesota, US
+Lake Red Rock, Douglas, Kensington, Minnesota, US
+Lake Reeds, Waseca, Elysian, Minnesota, US
+Lake Reno, Pope, Alexandria, Minnesota, US
+Lake Reshanau, Anoka, Centerville, Minnesota, US
+Lake Rhine, Pine, Finlayson, Minnesota, US
+Lake Rice, Anoka, Lino Lakes, Minnesota, US
+Lake Rice, Crow Wing, Brainerd, Minnesota, US
+Lake Rice, Faribault, Wells, Minnesota, US
+Lake Rice, Hennepin, Maple Grove, Minnesota, US
+Lake Rice, Itasca, Grand Rapids, Minnesota, US
+Lake Rice, Morrison, Little Falls, Minnesota, US
+Lake Rice, Otter Tail, Vergas, Minnesota, US
+Lake Rice, Stearns, Paynesville, Minnesota, US
+Lake Rice, Wright, Clearwater, Minnesota, US
+Lake Rice, Steele, Owatonna, Minnesota, US
+Lake Riley, Carver, Chanhassen, Minnesota, US
+Lake Ripley, Meeker, Litchfield, Minnesota, US
+Lake Ripple, Aitkin, Aitkin, Minnesota, US
+Lake Roberds, Rice, Shieldsville, Minnesota, US
+Lake Rock, Aitkin, McGregor, Minnesota, US
+Lake Rock, Becker, Detroit Lakes, Minnesota, US
+Lake Rock, Lyon, Russell, Minnesota, US
+Lake Rocky, St. Louis, Ely, Minnesota, US
+Lake Rock, Pine, Minnesota, US
+Lake Roosevelt, Cass, Outing, Minnesota, US
+Lake Roosevelt, Crow Wing, Outing, Minnesota, US
+Lake Rose, Otter Tail, Vergas, Minnesota, US
+Lake Ross, Crow Wing, Emily, Minnesota, US
+Lake Rossman, Becker, Lake Park, Minnesota, US
+Lake Round, Aitkin, Tamarack, Minnesota, US
+Lake Round, Aitkin, Aitkin, Minnesota, US
+Lake Round, Aitkin, Garrison, Minnesota, US
+Lake Round, Anoka, Anoka, Minnesota, US
+Lake Round, Becker, Ponsford, Minnesota, US
+Lake Round, Crow Wing, Nisswa, Minnesota, US
+Lake Round, Itasca, Big Fork, Minnesota, US
+Lake Round, Hennepin, Eden Prairie, Minnesota, US
+Lake Round, Itasca, Squaw Lake, Minnesota, US
+Lake Round, Jackson, Round Lake, Minnesota, US
+Lake Round, Otter Tail, Ottertail, Minnesota, US
+Lake Roy, Mahnomen, Zerkel, Minnesota, US
+Lake Ruby, Itasca, Grand Rapids, Minnesota, US
+Lake Rush, Jackson, Jackson, Minnesota, US
+Lake Rush, Otter Tail, Ottertail, Minnesota, US
+Lake Rush, Sherburne, Clear Lake, Minnesota, US
+Lake Rush (East), Chisago, Rush City, Minnesota, US
+Lake Rush (West), Chisago, Rush City, Minnesota, US
+Lake Ruth, Crow Wing, Emily, Minnesota, US
+Lake Sabin, St. Louis, Aurora, Minnesota, US
+Lake Sabre, Lesueur, Cordova, Minnesota, US
+Lake Saganaga, Cook, Grand Marais, Minnesota, US
+Lake Sallie, Becker, Detroit Lakes, Minnesota, US
+Lake Sand (Big), Cass, Remer, Minnesota, US
+Lake Sand (Little), Cass, Remer, Minnesota, US
+Lake Sand (Big), Hubbard, Dorset, Minnesota, US
+Lake Sand (Little), Hubbard, Dorset, Minnesota, US
+Lake Sand, Itasca, Squaw Lake, Minnesota, US
+Lake Sand, Lake, Isabella, Minnesota, US
+Lake Sand, Pine, Moose Lake, Minnesota, US
+Lake Sand, St. Louis, Virginia, Minnesota, US
+Lake Sand, Stearns, Albany, Minnesota, US
+Lake Sand Hill, Polk, Fosston, Minnesota, US
+Lake Sandy, Beltrami, Tenstrike, Minnesota, US
+Lake Sarah, Hennepin, Rockford, Minnesota, US
+Lake Sarah, Murray, Garvin, Minnesota, US
+Lake Sarah, Polk, Erskine, Minnesota, US
+Lake Sauer, Becker, Detroit Lakes, Minnesota, US
+Lake Sauk (Big), Todd, Sauk Centre, Minnesota, US
+Lake Sauk (Little), Todd, Sauk Centre, Minnesota, US
+Lake Saunders, Hennepin, Mound, Minnesota, US
+Lake Sawbill, Cook, Tofte, Minnesota, US
+Lake Scalp, Otter Tail, Frazee, Minnesota, US
+Lake Scandinavian, Pope, Terrace, Minnesota, US
+Lake School Grave, Lyon, Cottonwood, Minnesota, US
+Lake Schubert (East Bass), St. Louis, Cotton, Minnesota, US
+Lake Schutz, Carver, Victoria, Minnesota, US
+Lake Sea Gull, Cook, Grand Marais, Minnesota, US
+Lake Serpent, Crow Wing, Deerwood, Minnesota, US
+Lake Seventh Crow Wing, Hubbard, Nevis, Minnesota, US
+Lake Sewell, Otter Tail, Dalton, Minnesota, US
+Lake Shakopee, Mille Lacs, Onamia, Minnesota, US
+Lake Shallow, Itasca, Warba, Minnesota, US
+Lake Shaokotan, Lincoln, Ivanhoe, Minnesota, US
+Lake Shell, Becker, Snellman, Minnesota, US
+Lake Shetek, Murray, Currie, Minnesota, US
+Lake Shible, Swift, Appleton, Minnesota, US
+Lake Shields, Rice, Shieldsville, Minnesota, US
+Lake Shoal, Itasca, Nashwauk, Minnesota, US
+Lake Shoal, Itasca, Grand Rapids, Minnesota, US
+Lake Side, St. Louis, Chisholm, Minnesota, US
+Lake Silver, Clay, Hawley, Minnesota, US
+Lake Silver, Otter Tail, Frazee, Minnesota, US
+Lake Silver, Sibley, Arlington, Minnesota, US
+Lake Silver Island, Lake, Isabella, Minnesota, US
+Lake Siseebakwet (Sugar), Itasca, Grand Rapids, Minnesota, US
+Lake Sissabagama, Aitkin, Aitkin, Minnesota, US
+Lake Six Mile, Cass, Bena, Minnesota, US
+Lake Sixth Crow Wing, Hubbard, Nevis, Minnesota, US
+Lake Skogman, Isanti, Cambridge, Minnesota, US
+Lake Slate, Lake, Isabella, Minnesota, US
+Lake Sleepy Eye, Brown, Mankato, Minnesota, US
+Lake Smith, Crow Wing, Garrison, Minnesota, US
+Lake Smith, Douglas, Alexandria, Minnesota, US
+Lake Smith, St. Louis, Brimson, Minnesota, US
+Lake Snail, Ramsey, Shoreview, Minnesota, US
+Lake Snider, Mahnomen, Nay-tah-waush, Minnesota, US
+Lake Snowbank, Lake, Ely, Minnesota, US
+Lake Somers, Wright, Maple Lake, Minnesota, US
+Lake South Big Pine, Aitkin, Finlayson, Minnesota, US
+Lake South Long (Lower), Crow Wing, Brainerd, Minnesota, US
+Lake South Long (Upper), Crow Wing, Brainerd, Minnesota, US
+Lake South Stake, Becker, Lake Park, Minnesota, US
+Lake South Turtle, Otter Tail, Underwood, Minnesota, US
+Lake South Twin, Mahnomen, Waubun, Minnesota, US
+Lake South Walnut, Faribault, Wells, Minnesota, US
+Lake Spectacle, Isanti, Cambridge, Minnesota, US
+Lake Spellman, Yellow Medicine, Clarkfield, Minnesota, US
+Lake Spider, Hubbard, Nevis, Minnesota, US
+Lake Spider, Itasca, Marcell, Minnesota, US
+Lake Spirit, Aitkin, Bennettville, Minnesota, US
+Lake Spirit, Wadena, Menahga, Minnesota, US
+Lake Spitzer, Otter Tail, Urbank, Minnesota, US
+Lake Split Hand, Itasca, Grand Rapids, Minnesota, US
+Lake Spoon, Lake, Winton, Minnesota, US
+Lake Spoon, Ramsey, Maplewood, Minnesota, US
+Lake Spring, Meeker, Dassel, Minnesota, US
+Lake Spring, Polk, Lengby, Minnesota, US
+Lake Spring, Scott, Prior Lake, Minnesota, US
+Lake Spring, St. Louis, Crane Lake, Minnesota, US
+Lake Square, Washington, Stillwater, Minnesota, US
+Lake Stalker, Otter Tail, Underwood, Minnesota, US
+Lake Star, Meeker, Litchfield, Minnesota, US
+Lake Star, Otter Tail, Dent, Minnesota, US
+Lake Stark, Crow Wing, Emily, Minnesota, US
+Lake Stay, Lincoln, Arco, Minnesota, US
+Lake Steamboat, Cass, Cass Lake, Minnesota, US
+Lake Steep Bank, Lincoln, Hendricks, Minnesota, US
+Lake Stella, Meeker, Darwin, Minnesota, US
+Lake Stewart, Lake, Two Harbors, Minnesota, US
+Lake Stingy, Itasca, Nashwauk, Minnesota, US
+Lake Stinking, Becker, Lake Park, Minnesota, US
+Lake Stocking, Wadena, Menahga, Minnesota, US
+Lake Stone, St. Louis, Rollins, Minnesota, US
+Lake Stony, Cass, Hackensack, Minnesota, US
+Lake Stony, Lake, Isabella, Minnesota, US
+Lake Stowe, Douglas, Brandon, Minnesota, US
+Lake Straight, Becker, Osage, Minnesota, US
+Lake Strawberry, Becker, White Earth, Minnesota, US
+Lake Stuart, Otter Tail, Vining, Minnesota, US
+Lake Sturgeon, Pine, Sturgeon Lake, Minnesota, US
+Lake Sturgeon, St. Louis, Chisholm, Minnesota, US
+Lake Sugar, Aitkin, Glen, Minnesota, US
+Lake Sugar, Cass, Remer, Minnesota, US
+Lake Sugar, Itasca, Cass Lake, Minnesota, US
+Lake Sugar, Wright, Maple Lake, Minnesota, US
+Lake Sugar Bush (Big), Becker, Richwood, Minnesota, US
+Lake Sugar Bush (Little), Becker, Richwood, Minnesota, US
+Lake Sullivan, Morrison, Harding, Minnesota, US
+Lake Sunrise, Chisago, Lindstrom, Minnesota, US
+Lake Sunset, Washington, White Bear Lake, Minnesota, US
+Lake Superior, Cook, Duluth, Minnesota, US
+Lake Swamp, Aitkin, Glen, Minnesota, US
+Lake Swan, Itasca, Pengilly, Minnesota, US
+Lake Swan, McLeod, Silver Lake, Minnesota, US
+Lake Swan, Nicollet, Nicollet, Minnesota, US
+Lake Swan, Otter Tail, Fergus Falls, Minnesota, US
+Lake Swenson, Beltrami, Bemidji, Minnesota, US
+Lake Sybil, Otter Tail, Vergas, Minnesota, US
+Lake Sylvia, Wright, South Haven, Minnesota, US
+Lake Talcot, Cottonwood, Dundee, Minnesota, US
+Lake Tamarac, Otter Tail, Pelican Rapids, Minnesota, US
+Lake Tamarack, Becker, Rochert, Minnesota, US
+Lake Tamarack, Carlton, Wright, Minnesota, US
+Lake Ten Mile, Cass, Hackensack, Minnesota, US
+Lake Ten Mile, Otter Tail, Dalton, Minnesota, US
+Lake Tetonka, Lesueur, Waterville, Minnesota, US
+Lake Third Crow Wing, Hubbard, Hubbard, Minnesota, US
+Lake Thief, Marshall, Gatzke (or Middle River), Minnesota, US
+Lake Thirteen, Cass, Cass Lake, Minnesota, US
+Lake Thistle Dew, Itasca, Togo, Minnesota, US
+Lake Thole, Scott, Shakopee, Minnesota, US
+Lake Thornton, Aitkin, Deerwood, Minnesota, US
+Lake Three, Clay, Hawley, Minnesota, US
+Lake Three Island, Beltrami, Turtle River, Minnesota, US
+Lake Three Island, Itasca, Marcell, Minnesota, US
+Lake Thunder Lake, Cass, Remer, Minnesota, US
+Lake Tilde, Clay, Hitterdahl, Minnesota, US
+Lake Timber, Jackson, Windom, Minnesota, US
+Lake Toad, Becker, Osage, Minnesota, US
+Lake Tofte, Lake, Ely, Minnesota, US
+Lake Tom, Cook, Hovland, Minnesota, US
+Lake Town Line, Cass, Longville, Minnesota, US
+Lake Traverse, Traverse, Browns Valley, Minnesota, US
+Lake Trelipe (Lower), Cass, Longville, Minnesota, US
+Lake Trelipe (Upper), Cass, Longville, Minnesota, US
+Lake Triangle, Lake, Ely, Minnesota, US
+Lake Trout, Cook, Grand Marais, Minnesota, US
+Lake Trout, Itasca, Coleraine, Minnesota, US
+Lake Trout, Itasca, Grand Rapids, Minnesota, US
+Lake Trowbridge, Otter Tail, Vergas, Minnesota, US
+Lake Tulaby, Mahnomen, Waubun, Minnesota, US
+Lake Turtle (Big), Beltrami, Bemidji, Minnesota, US
+Lake Turtle (Little), Beltrami, Puposky, Minnesota, US
+Lake Turtle, Douglas, Forada, Minnesota, US
+Lake Turtle, Itasca, Marcell, Minnesota, US
+Lake Turtle, Polk, Fosston, Minnesota, US
+Lake Turtle, Ramsey, Shoreview, Minnesota, US
+Lake Turtle River, Beltrami, Turtle River, Minnesota, US
+Lake Tuscarora, Cook, BWCA, Minnesota, US
+Lake Twin, Hennepin, Robbinsdale, Minnesota, US
+Lake Twin, Otter Tail, Amor, Minnesota, US
+Lake Twin, Todd, Grey Eagle, Minnesota, US
+Lake Twin, Wright, South Haven, Minnesota, US
+Lake Two Island, Cook, Grand Marais, Minnesota, US
+Lake Two Rivers, Stearns, Holdingford, Minnesota, US
+Lake Typo, Isanti, Stacy, Minnesota, US
+Lake Uhlenkolts, Stearns, New Munich, Minnesota, US
+Lake Union, Polk, Erskine, Minnesota, US
+Lake Union, Rice, Little Chicago, Minnesota, US
+Lake Bottle (Upper), Hubbard, Dorset, Minnesota, US
+Lake Upper Cormorant, Becker, Lake Park, Minnesota, US
+Lake Upper Dean, Crow Wing, Emily, Minnesota, US
+Lake Upper Gull, Cass, Nisswa, Minnesota, US
+Lake Upper Lasalle, Clearwater, Lake Itasca, Minnesota, US
+Lake Upper Pine, Pine, Finlayson, Minnesota, US
+Lake Red (Upper), Beltrami, Waskish, Minnesota, US
+Lake Upper Rice, Clearwater, Shevlin, Minnesota, US
+Lake Vadnais (east), Ramsey, Vadnais Heights, Minnesota, US
+Lake Vadnais (west), Ramsey, Vadnais Heights, Minnesota, US
+Lake Vanduse, Aitkin, Palisade, Minnesota, US
+Lake Vermilion, St. Louis, Tower, Minnesota, US
+Lake Vermillion, Cass, Remer, Minnesota, US
+Lake Vermont, Douglas, Miltona, Minnesota, US
+Lake Victoria, Douglas, Alexandria, Minnesota, US
+Lake Villard, Pope, Villard, Minnesota, US
+Lake Virginia, Carver, Victoria, Minnesota, US
+Lake Volney, Lesueur, Le Center, Minnesota, US
+Lake Wabana, Itasca, Grand Rapids, Minnesota, US
+Lake Wabedo, Cass, Longville, Minnesota, US
+Lake Waboose, Becker, Ponsford, Minnesota, US
+Lake Waconia, Carver, Waconia, Minnesota, US
+Lake Wagonga, Kandiyohi, Willmar, Minnesota, US
+Lake Walker, Otter Tail, Ottertail, Minnesota, US
+Lake Wall, Otter Tail, Fergus Falls, Minnesota, US
+Lake Washburn, Cass, Outing, Minnesota, US
+Lake Washington, Lesueur, Madison Lake, Minnesota, US
+Lake Washington, Meeker, Darwin, Minnesota, US
+Lake Wassermann, Carver, Victoria, Minnesota, US
+Lake Wasson, Itasca, Taconite, Minnesota, US
+Lake Watab, sterns, St. Joseph, Minnesota, US
+Lake Waukenabo, Aitkin, Palisade, Minnesota, US
+Lake Waverly, Wright, Waverly, Minnesota, US
+Lake Weaver, Hennepin, Maple Grove, Minnesota, US
+Lake Webb, Cass, Hackensack, Minnesota, US
+Lake West Battle, Otter Tail, Battle Lake, Minnesota, US
+Lake West Chub, Lake, Isabella, Minnesota, US
+Lake West Crooked, Hubbard, Nevis, Minnesota, US
+Lake West Jefferson, Lesueur, Cleveland, Minnesota, US
+Lake West Leaf, Otter Tail, Ottertail, Minnesota, US
+Lake West Lost, Otter Tail, Underwood, Minnesota, US
+Lake West McDonald, Otter Tail, Vergas, Minnesota, US
+Lake West Silent, Otter Tail, Pelican Rapids, Minnesota, US
+Lake West Twin, Lyon, Florence, Minnesota, US
+Lake Whale, Cook, Grand Marais, Minnesota, US
+Lake Whaletail, Hennepin, St BonifaciUS Minnesota, US
+Lake White Bear, Ramsey / Washington, White Bear Lake, Minnesota, US
+Lake White Earth, Becker, White Earth, Minnesota, US
+Lake White Elk, Aitkin, Swatara, Minnesota, US
+Lake White Iron, St. Louis, Ely, Minnesota, US
+Lake White Pine, Cook, Lutsen, Minnesota, US
+Lake White Swan, Itasca, Bigfork, Minnesota, US
+Lake Whiteface, St. Louis, Markham, Minnesota, US
+Lake Whitefish, Crow Wing, Cross Lake, Minnesota, US
+Lake Whitefish, Crow Wing, Garrison, Minnesota, US
+Lake Whitefish, Itasca, Wirt, Minnesota, US
+Lake Whitefish, Lake, Tofte, Minnesota, US
+Lake Whitefish, Polk, Fosston, Minnesota, US
+Lake Whitewater, St. Louis, Hoyt Lakes, Minnesota, US
+Lake Wilkins, Aitkin, Palisade, Minnesota, US
+Lake Wilson, Lake, Schroeder, Minnesota, US
+Lake Wilson, Murray, Lake Wilson, Minnesota, US
+Lake Wimar, Otter Tail, Frazee, Minnesota, US
+Lake Winchester, St. Louis, Orr, Minnesota, US
+Lake Windigo, Beltrami, Bemidji, Minnesota, US
+Lake Windy, Lake, Isabella, Minnesota, US
+Lake Winnibigoshish, Cass, Deer River, Minnesota, US
+Lake Winona, Winona, Winona, Minnesota, US
+Lake Winsted, McLeod, Winsted, Minnesota, US
+Lake Wirth, Hennepin, Golden Valley, Minnesota, US
+Lake Wolf, Becker, Wolf Lake, Minnesota, US
+Lake Wolf, Meeker, Dassel, Minnesota, US
+Lake Wolf, St. Louis, Ely, Minnesota, US
+Lake Woman, Cass, Longville, Minnesota, US
+Lake Wood, Lyon, Russell, Minnesota, US
+Lake Wood, Yellow Medicine, Wood Lake, Minnesota, US
+Lake Worm, Grant, Elbow Lake, Minnesota, US
+Lake Yankton, Lyon, Balaton, Minnesota, US
+Lake Zumbra, Carver, Victoria, Minnesota, US

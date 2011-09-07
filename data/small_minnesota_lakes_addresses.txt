@@ -1,0 +1,6 @@
+name,place,county,state,country
+Lake Aaron, Douglas, Millerville, Minnesota, US
+Lake Abbey, Becker, Detroit Lakes, Minnesota, US
+Lake Acorn, Becker, Frazee, Minnesota, US
+Lake Ada, Cass, BackUS Minnesota, US
+Lake Adley, Otter Tail, Parkers Prairie, Minnesota, US
