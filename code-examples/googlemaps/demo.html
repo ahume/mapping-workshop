@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	#map { height: 600px; width: 800px; }
+</style>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+(function() {
+	
+	var brighton = new google.maps.LatLng(50.850522, -0.13642);
+	
+	function init() {
+
+		var myOptions = {
+			zoom: 12,
+			center: brighton,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		map = new google.maps.Map(document.querySelector("#map"), myOptions);
+	}
+	
+	window.onload = init;
+	
+})();
+</script>
+</head>
+<body>
+	<h1>Boilerplate Google Maps</h1>
+	<div id="map"></div>
+	<p>View source to see very simple Google maps boilerplate code.</p>
+</body>
+</html>

@@ -66,7 +66,7 @@
 		myHeatmap.SetBoost(0.1);
 		myHeatmap.SetDecay(0); // see documentation
 		myHeatmap.SetData(data);
-		myHeatmap.SetProxyURL('/code-examples/heatmap-api/proxy.php');
+		myHeatmap.SetProxyURL('proxy.php');
 		
 		var latlng = new google.maps.LatLng(26.273714, 17.226563);
 		var myOptions = {

@@ -4,6 +4,7 @@
 <style type="text/css">
 	#map { height: 300px; width: 300px; }
 </style>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script src="http://cdn.simplegeo.com/js/1.3/simplegeo.storage.min.js"></script>
 <script type="text/javascript">
 (function() {
@@ -12,10 +13,10 @@
 		
 		var client = new simplegeo.StorageClient('dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc');
 		
-		//client.getNearby("libya", 32.895, 13.280, 
-		//	{ "radius": 100 },
-		//	displayData
-		//);
+		client.getNearby("libya", 32.895, 13.280, 
+			{ "radius": 100 },
+			displayData
+		);
 	}
 	
 	function displayData(err, data) {
