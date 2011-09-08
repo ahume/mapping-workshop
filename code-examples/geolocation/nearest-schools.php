@@ -2,7 +2,7 @@
 <html>
 <head>
 <style type="text/css">
-	#map { height: 800px; width: 800px; }
+	#map { height: 600px; width: 600px; }
 </style>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script src="http://cdn.simplegeo.com/js/1.3/simplegeo.storage.min.js"></script>
@@ -13,6 +13,7 @@
 		map,
 		directionsService,
 		directionsDisplay,
+		brighton = new google.maps.LatLng(50.850522, -0.13642),
 		simple_geo_token = "dPCyPfyxGDP85j7ztP5PGMcWCwY8AhFc",
 		layer = "schools.keystage2";
 	
@@ -36,8 +37,8 @@
 			
 			// Call SimpleGeo for nearest school data.
 			var client = new simplegeo.StorageClient(simple_geo_token);
-				client.getNearby(layer, current_coords.lat(), current_coords.lng(),
-				{ "limit": 1, "radius": 2, "prop_type": "string", "prop_name": "PAbsTot", "order": "-property" },
+				client.getNearby(layer, brighton.lat(), brighton.lng(),
+				{ "limit": 1, "radius": 0.8, "prop_type": "string", "prop_name": "PAbsTot", "order": "-property" },
 				function(err, data) {
 					if (err) {
 						alert("Catch error.");
